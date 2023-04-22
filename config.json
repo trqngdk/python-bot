@@ -1,0 +1,8 @@
+{
+  "prefix": ";",
+  "token": "YOUR_BOT_TOKEN",
+  "permissions": "YOUR_BOT_PERMISSIONS",
+  "application_id": "YOUR_APPLICATIONS_ID",
+  "sync_commands_globally": true,
+  "owners": "YOUR_USER_ID"
+}

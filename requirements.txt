@@ -1,0 +1,5 @@
+aiosqlite
+discord.py
+requests-cache
+typing
+helpers
